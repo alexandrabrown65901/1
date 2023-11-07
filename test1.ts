@@ -4,3 +4,8 @@ interface ITest {
   function: Function;
   excpected: Object;
 }
+
+interface IUser {
+  id: string;
+  name: string;
+}
